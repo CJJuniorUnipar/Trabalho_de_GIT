@@ -3,11 +3,7 @@
  2. O que é versionamento de software?
  3. Por que utilizar o Git como controle de versionamento?
 
-<<<<<<< Updated upstream
 O GIT hoje é a melhor escolha para maioria das equipes de desenvolvimento de software, tornando a ferramenta como um padrão de mercado. Não só por isso, mas o GIT tem desempenho, funcionalidade, segurança e flexibilidade que a maioria das equipes precisam.
-=======
-O GIT hoje é a melhor escolha para maioria das equipes de desenvolvimento de software, tornando a ferramenta como um padrão de mercado. Não só por isso, mas o GIT tem desempenho, funcionalidade, segurança e flexibilidade que a maioria das equipes precisam.  
->>>>>>> Stashed changes
 
  4. Quais as vantagens do Git?
 
